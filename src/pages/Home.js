@@ -3,10 +3,10 @@ import React from 'react'
 export default function Home() {
   return (
     <>
-    <h1>Home Page</h1>
-    <h2>Lorem</h2>
-    <div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempus egestas sed sed risus pretium quam vulputate dignissim. Vitae auctor eu augue ut lectus arcu bibendum. Vel risus commodo viverra maecenas accumsan. Proin fermentum leo vel orci. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porta lorem mollis aliquam ut porttitor. Mi ipsum faucibus vitae aliquet. Id ornare arcu odio ut. Aliquam ut porttitor leo a diam sollicitudin tempor. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci. Mauris pharetra et ultrices neque ornare aenean. Dignissim convallis aenean et tortor at risus viverra. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Malesuada fames ac turpis egestas.
+    <div className='home'>
+    <h2>Home Page</h2>
+    <h3>Lorem</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempus egestas sed sed risus pretium quam vulputate dignissim. Vitae auctor eu augue ut lectus arcu bibendum. Vel risus commodo viverra maecenas accumsan. Proin fermentum leo vel orci. Sociis natoque penatibus et magnis dis parturient montes nascetur. Porta lorem mollis aliquam ut porttitor. Mi ipsum faucibus vitae aliquet. Id ornare arcu odio ut. Aliquam ut porttitor leo a diam sollicitudin tempor. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci. Mauris pharetra et ultrices neque ornare aenean. Dignissim convallis aenean et tortor at risus viverra. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Malesuada fames ac turpis egestas.
 
 Venenatis lectus magna fringilla urna porttitor. At tellus at urna condimentum. Consectetur libero id faucibus nisl tincidunt. Dui id ornare arcu odio ut sem nulla pharetra. Etiam non quam lacus suspendisse faucibus interdum posuere. Tempus urna et pharetra pharetra massa massa ultricies. Donec adipiscing tristique risus nec feugiat in fermentum. Amet risus nullam eget felis eget nunc lobortis mattis. Id consectetur purus ut faucibus pulvinar elementum integer. Mauris cursus mattis molestie a iaculis. Risus feugiat in ante metus. Diam in arcu cursus euismod quis viverra nibh. Ac felis donec et odio pellentesque diam. Mattis pellentesque id nibh tortor id aliquet. Aliquam sem fringilla ut morbi.
 
